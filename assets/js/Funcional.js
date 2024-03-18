@@ -1,6 +1,3 @@
-
-const image = document.getElementById('main-banner');
-
 const $ = document.getElementById.bind(document);
 /* Atribuindo document.getElementById.bind(document) na variavel $  se torna possivel deixar o codigo mais limpo usando apenas $  */
 
